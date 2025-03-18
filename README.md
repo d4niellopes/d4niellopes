@@ -38,5 +38,3 @@
 <hr />
 
 ![](https://github-readme-stats.vercel.app/api?username=d4niellopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d4niellopes&layout=compact&langs_count=7&theme=tokyonight)
-
-![Snake animation](https://github.com/d4niellopes/d4niellopes/blob/output/github-contribution-grid-snake.svg)
