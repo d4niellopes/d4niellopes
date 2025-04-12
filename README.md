@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! I'm Daniel!  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<p align="left"> I am a Computer Engineering student at CEFET-MG with experience in backend with Java due to my participation in a robotics team. We participated in the FIRST Robotics Competition, a large-scale global robot competition.
-<p align="left"> During this period, I worked as a programmer and pilot, being part of the team responsible for programming all the code for the autonomous and teleoperated periods of the game. In addition, the competition requires excellent communication, teamwork and soft skills in general.
-<p align="left"> After this contact with programming, I developed a great interest in Java (the language I used) and its principles. From then on, I began to dedicate more time to this topic and deepen my knowledge in the world of technology.
-<p align="left"> Besides the backend, I have had some contact with frontend and cybersecurity, so I am always willing to learn new technologies and stay up to date with the constant technological evolution.
 
 <div style="display: inline_block" align="center">
   <h3 align="center">Tools</h3> 
