@@ -4,7 +4,7 @@
 
 <div style="display: inline_block" align="center">
   <h3 align="center">Tools</h3> 
-  <img align="center" alt="vscode icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="vscode icon" height="30" width="40" src="https://i.imgur.com/GdWhoaA.png" />
   <img align="center" alt="java icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="arduino icon" height="30" width"40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="cplusplus icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
